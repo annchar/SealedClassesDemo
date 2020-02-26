@@ -1,5 +1,5 @@
 package com.annchar.sealedclassesdemo
 
-enum class Test {
+enum class PaymentEnumNormal {
     CREDIT_CARD, CASH_BANK, PROMTPAY, NONE
 }
