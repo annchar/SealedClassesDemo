@@ -3,8 +3,10 @@
 [![](https://img.shields.io/badge/Platform-Android-blue.svg)](https://jitpack.io/#annchar/SealedClassesDemo)
 [![](https://img.shields.io/badge/License-Apache_v2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
-### Sealed Classes Demo created for learning about Sealed Class in Kotlin
-### **Blog Medium** : [What are Sealed Classes?](https://medium.com/@annchar/what-are-sealed-classes-9a58f5ed4de8)
+### Sealed Classes Demo created for learning about Sealed Class in Kotlin.
+### **Blog Medium** : [What are Sealed Classes? [Englist version]](https://medium.com/@annchar/what-are-sealed-classes-en-66ae1c34303a)
+### **Blog Medium** : [What are Sealed Classes? [Thai version]](https://medium.com/@annchar/what-are-sealed-classes-9a58f5ed4de8)
+
 
 <p align="center">
 <img src="./screenshot/screenshot.png" width="500" height="800" />
